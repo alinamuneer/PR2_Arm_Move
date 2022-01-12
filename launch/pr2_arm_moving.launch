@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="pr2_arm_moving" pkg="arm_moving" type="pr2_arm_moving" respawn="false" output="screen">
+  </node>
+
+</launch>
